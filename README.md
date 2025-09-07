@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Yuya Hamada(tekimen). A PHP commiter in mbstring / Unicode side.
+
+- I'm interesting to Unicode.
+  - Kanji (Hanji)
+  - Emoji ✌️
+- My social media is ...
+  - Twitter(X) <https://x.com/youkidearitai>
+  - My home page <https://tekitoh-memdhoi.info>
+  - phpc.social <https://phpc.social/@youkidearitai>
+  - mstdn.jp <https://mstdn.jp/@tekimen>
+
+If you interesting to my work(PHP commiting), Please consider donating to [GitHub Sponsers](https://github.com/sponsors/youkidearitai)🙇‍♂️.
