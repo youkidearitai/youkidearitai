@@ -25,5 +25,6 @@ I am Yuya Hamada(tekimen). A PHP commiter in mbstring / Unicode side.
   - My home page <https://tekitoh-memdhoi.info>
   - phpc.social <https://phpc.social/@youkidearitai>
   - mstdn.jp <https://mstdn.jp/@tekimen>
+  - YouTube <https://www.youtube.com/channel/UCbvAXyz9QLslrJhTlnEyfiA>
 
 If you interesting to my work(PHP commiting), Please consider donating to [GitHub Sponsers](https://github.com/sponsors/youkidearitai)🙇‍♂️.
